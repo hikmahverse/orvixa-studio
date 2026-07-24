@@ -1,0 +1,256 @@
+{
+  "apps": {
+    "status": true,
+    "redirect_url": "",
+    "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
+    "email_feedback_and_report": "orvixa.studios@gmail.com",
+    "webview_cache": true,
+    "post_list_in_large_style": true,
+    "show_post_list_header": true,
+    "show_post_detail_image": true,
+    "show_post_detail_title": true,
+    "show_post_detail_category": true,
+    "show_related_posts": true,
+    "enable_rtl_mode": false,
+    "enable_exit_dialog": true,
+    "enable_dark_mode_as_default_theme": false
+  },
+  "ads": {
+    "mainAds": "admob",
+    "backupAds": "none",
+    "adStatus": true,
+    "interstitialInterval": 2,
+    "bannerStatus": true,
+    "interstitialStatus": true,
+    "nativeStatus": true,
+    "rewardedStatus": true,
+    "appOpenStatus": false,
+    "mainAdmobAppId": "ca-app-pub-4631404232937485~9033611397",
+    "mainAdManagerAppId": "0",
+    "mainStartappAppId": "0",
+    "mainUnityGameId": "0",
+    "mainIronsourceAppKey": "0",
+    "mainApplovinSdkKey": "0",
+    "mainBannerId": "ca-app-pub-4631404232937485/2492399565",
+    "mainInterstitialId": "ca-app-pub-4631404232937485/1179317896",
+    "mainNativeId": "ca-app-pub-4631404232937485/6550918282",
+    "mainRewardedId": "ca-app-pub-4631404232937485/7863999959",
+    "mainAppOpenId": "ca-app-pub-4631404232937485/5237836616",
+    "backupAdmobAppId": "0",
+    "backupAdManagerAppId": "0",
+    "backupStartappAppId": "0",
+    "backupUnityGameId": "0",
+    "backupIronsourceAppKey": "0",
+    "backupApplovinSdkKey": "0",
+    "backupBannerId": "0",
+    "backupInterstitialId": "0",
+    "backupNativeId": "0",
+    "backupRewardedId": "0",
+    "backupAppOpenId": "0"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Panduan Utama",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Main.Guide.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Persiapan",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Preparation.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Pemecahan Masalah",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Troubleshooting.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Tips & Fakta",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Tips.Facts.jpeg"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Panduan Utama",
+      "title": "Langkah Demi Langkah: Pemasangan Hydrogel Sempurna",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Step-by-Step.Perfect.Hydrogel.Installation.jpeg",
+      "content": "<p>Memasang pelindung layar hydrogel ternyata lebih mudah dari yang Anda bayangkan. Ikuti langkah-langkah presisi ini untuk hasil yang mulus dan tanpa gelembung.</p><p><b>Langkah 1: Persiapan</b><br>Cari ruangan yang bebas debu. Cuci tangan Anda hingga bersih dan siapkan alat-alat: lapisan hydrogel, tisu basah, tisu kering, stiker penyerap debu, dan alat pendorong (squeegee).</p><p><b>Langkah 2: Pembersihan</b><br>Gunakan tisu basah untuk membersihkan semua minyak dan kotoran dari layar. Segera lanjutkan dengan tisu kering hingga layar benar-benar mengering. Gunakan stiker penyerap debu untuk mengangkat sisa debu mikro.</p><p><b>Langkah 3: Penyesuaian Posisi (Alignment)</b><br>Lepaskan strip penahan bagian bawah hydrogel. Sejajarkan pelindung dengan hati-hati menyesuaikan lubang kamera dan tepi ponsel Anda.</p><p><b>Langkah 4: Pemasangan</b><br>Angkat bagian atas pelindung. Letakkan squeegee di bagian tengah lalu dorong ke atas dengan kuat dan mulus. Ulangi proses yang sama untuk bagian bawah layar.</p><p><b>Langkah 5: Penyelesaian</b><br>Lepaskan lapisan pelindung paling atas secara perlahan. Gunakan jari Anda untuk merapikan bagian tepi layar. Selesai!</p>",
+      "video": "",
+      "rewarded": true
+    },
+    {
+      "id": 2,
+      "category": "Panduan Utama",
+      "title": "Cara Memasang Hydrogel di Layar Melengkung",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/How.to.Install.Hydrogel.on.Curved.Screens.jpeg",
+      "content": "<p>Tepi melengkung (seperti pada seri Samsung Galaxy Edge) bisa jadi cukup menantang, tetapi hydrogel adalah material yang sempurna untuk layar tersebut.</p><p>Ikuti proses pembersihan dan penyesuaian posisi standar. Saat Anda menggunakan squeegee untuk mendorong hydrogel ke depan, fokuslah terlebih dahulu pada bagian tengah layar yang datar. Jangan langsung mencoba melipat atau menempelkan bagian tepinya.</p><p>Setelah bagian tengah terpasang sempurna dan lapisan pelindung transparan atas dilepas, saatnya menangani bagian lekukan. Gunakan ibu jari Anda atau kain mikrofiber untuk mengusap hydrogel dengan lembut menuruni tepi yang melengkung. Panas alami dari jari Anda membantu material TPU melengkung dan menempel kuat pada kaca.</p><p>Jika tepi hydrogel terus terangkat, Anda bisa menggunakan pengering rambut (hair dryer) dengan suhu paling rendah selama 3-5 detik untuk menghangatkan hydrogel, membuatnya lebih lentur dan lengket.</p>",
+      "video": "",
+      "rewarded": true
+    },
+    {
+      "id": 3,
+      "category": "Persiapan",
+      "title": "Mengapa Anda Membutuhkan Ruangan Bebas Debu",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Why.You.Need.a.Dust-Free.Environment.jpeg",
+      "content": "<p>Debu adalah musuh utama dalam setiap proses pemasangan pelindung layar. Bahkan satu titik debu mikro saja bisa menciptakan gelembung mengganggu yang tidak akan pernah hilang.</p><p>Sebelum Anda mulai, pastikan untuk mematikan kipas angin atau AC di ruangan untuk menghentikan sirkulasi udara. Tips profesional: pasang pelindung layar Anda di kamar mandi sesaat setelah seseorang mandi menggunakan air panas. Uap di udara akan menjebak partikel debu yang melayang dan menariknya ke lantai, menciptakan lingkungan bersih sementara.</p><p>Selalu kerjakan proses ini di bawah cahaya lampu yang terang agar Anda bisa dengan mudah melihat sekecil apa pun debu yang menempel di layar hitam perangkat Anda sebelum menempelkan hydrogel.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 4,
+      "category": "Persiapan",
+      "title": "Memahami Fungsi Tisu Basah dan Kering (Wet & Dry Wipes)",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Understanding.Wet.and.Dry.Wipes.jpeg",
+      "content": "<p>Paket kecil berlabel 1 dan 2 yang ada dalam kemasan sangatlah krusial untuk keberhasilan pemasangan. Jangan pernah melewatkannya atau menggantinya dengan tisu rumah tangga biasa.</p><p>Tisu Basah (1) mengandung alkohol isopropil dengan konsentrasi khusus. Ini dirancang untuk melarutkan minyak kulit, bekas sidik jari, dan sisa lem dari pelindung lama Anda. Lap seluruh permukaan layar Anda secara menyeluruh.</p><p>Tisu Kering (2) adalah kain mikrofiber tanpa serat. Gunakan ini segera setelah menggunakan tisu basah. Jangan biarkan alkohol mengering dengan sendirinya, karena hal tersebut dapat meninggalkan pola bekas air di layar. Lap dengan tekanan kuat secara searah hingga kaca benar-benar mengkilat dan kering sempurna.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 5,
+      "category": "Persiapan",
+      "title": "Cara Menggunakan Stiker Penyerap Debu",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/How.to.Use.the.Dust.Absorber.Sticker.jpeg",
+      "content": "<p>Bahkan setelah dibersihkan menggunakan tisu basah dan kering, partikel debu halus bisa mendarat di layar Anda hanya dalam hitungan detik.</p><p>Stiker Penyerap Debu (Dust Absorber) adalah stiker berdaya rekat rendah yang dirancang khusus mengatasi masalah ini. Stiker ini cukup lengket untuk mengangkat debu, namun tidak akan meninggalkan sisa lem lengket di layar Anda.</p><p>Jangan pernah mengusap atau menyeret stiker ini di atas kaca! Alih-alih, gunakan gerakan 'tekan dan angkat' (tap-tap) dengan cepat menyusuri seluruh permukaan layar. Lakukan langkah ini tepat beberapa detik sebelum Anda membuka lapisan lem pada hydrogel untuk meminimalisir kemungkinan masuknya debu baru.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 6,
+      "category": "Persiapan",
+      "title": "Menguasai Alat Pendorong (Squeegee)",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Mastering.the.Squeegee.Tool.jpeg",
+      "content": "<p>Squeegee (atau kartu pendorong) adalah alat utama Anda untuk menempelkan hydrogel secara merata sekaligus mendesak udara keluar.</p><p>Pegang squeegee pada sudut kemiringan 45 derajat terhadap layar. Kesalahan paling umum yang sering dilakukan pemula adalah mendorong dengan ragu-ragu dan gerakan terputus-putus. Berhenti di tengah-tengah dorongan akan meninggalkan jejak garis horizontal permanen pada lem hydrogel Anda.</p><p>Berikan tekanan yang kokoh dan konsisten, lalu dorong lurus hingga ke tepi layar dalam satu gerakan halus tanpa jeda. Jika alat pendorong Anda tidak memiliki pelapis kain di ujungnya, bungkuslah menggunakan kain mikrofiber tipis agar tidak menggores lapisan atas hydrogel saat ditekan.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 7,
+      "category": "Persiapan",
+      "title": "Daftar Persiapan Wajib",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Essential.Preparation.Checklist.jpeg",
+      "content": "<p>Sebelum mengelupas lapisan pelindung apa pun dari hydrogel baru Anda, pastikan Anda mencentang daftar persiapan ini terlebih dahulu:</p><ul><li>Apakah tangan sudah dicuci sabun untuk menghilangkan minyak alami?</li><li>Apakah kipas angin dan AC ruangan sudah dimatikan?</li><li>Apakah area kerja memiliki pencahayaan terang?</li><li>Apakah casing ponsel sudah dilepas? (Casing kerap mengganggu perataan ujung layar)</li><li>Apakah sisa lem dari pelindung layar lama sudah dibersihkan total?</li><li>Sudahkah menonton video tutorial minimal sekali?</li></ul><p>Mencentang semua daftar ini menjamin bahwa 90% proses tersulit telah berhasil Anda tangani.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 8,
+      "category": "Pemecahan Masalah",
+      "title": "Cara Mengatasi Gelembung Udara yang Terjebak",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/How.to.Remove.Trapped.Air.Bubbles.jpeg",
+      "content": "<p>Melihat adanya gelembung usai memasang hydrogel adalah hal yang wajar. Jangan panik, dan jangan langsung melepas kembali pelindung tersebut!</p><p>Pertama, identifikasi jenis gelembungnya. Jika itu hanyalah murni udara yang terjebak (tanpa titik hitam debu di dalamnya), Anda punya dua opsi. Untuk gelembung berukuran besar yang berada di dekat tepi layar, gunakan squeegee yang dilapisi kain untuk mendorong gelembung tersebut pelan-pelan keluar dari layar.</p><p>Untuk gelembung-gelembung mikro berukuran sangat kecil di tengah layar, diamkan saja. Material TPU hydrogel memiliki pori yang dapat bernapas. Gelembung udara kecil akan meresap keluar dan menghilang secara alami dalam waktu 24 hingga 48 jam. Anda cukup bersabar!</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 9,
+      "category": "Pemecahan Masalah",
+      "title": "Mengatasi Debu yang Terjebak Setelah Pemasangan",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Dealing.with.Trapped.Dust.After.Installation.jpeg",
+      "content": "<p>Jika sebuah gelembung memperlihatkan bintik hitam kecil di tengahnya, itu adalah debu yang terjebak. Gelembung semacam ini tidak bisa hilang dengan sendirinya.</p><p>Jika debu tersebut berada tidak jauh dari tepi layar, Anda bisa melakukan tindakan penyelamatan darurat. Siapkan sepotong selotip bening. Gunakan kuku Anda untuk mengangkat sudut hydrogel terdekat secara perlahan, angkat sekucupnya saja hingga debu bisa dijangkau.</p><p>Tempelkan sisi lengket selotip tersebut untuk mencabut debu dari layar (atau debu yang menempel di bawah lem hydrogel). Setelah debunya terangkat bersih, gunakan kembali squeegee untuk meratakan hydrogel ke layar.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 10,
+      "category": "Pemecahan Masalah",
+      "title": "Mengatasi Tepi yang Terangkat pada Layar Lengkung",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Fixing.Lifted.Edges.on.Curved.Displays.jpeg",
+      "content": "<p>Kadang kala, ujung-ujung pelindung hydrogel menolak menempel di layar yang sangat melengkung dan akan terus membal kembali ke atas secara instan.</p><p>Hal ini lazimnya terjadi karena hydrogel terlalu dipaksa merenggang saat pemasangan, atau area lengkungan tepi kurang bersih. Untuk memperbaikinya, pijat perlahan bagian tepi tersebut menggunakan kain mikrofiber yang sudah dihangatkan (atau ditekan hangat menggunakan jari). Hawa hangat membantu sifat elastis TPU menjadi rileks dan menuruti bentuk lengkungan layar.</p><p>Apabila hydrogel terangkat sesaat setelah Anda memasang casing HP, itu berarti hydrogel Anda kemungkinan bukan tipe 'case-friendly' (ramah casing). Anda dapat mencoba memotong sekira 1mm sudut hydrogel yang terdorong tadi menggunakan pisau cutter kecil (craft knife), namun ini menuntut ketelitian tinggi.</p>",
+      "video": "",
+      "rewarded": true
+    },
+    {
+      "id": 11,
+      "category": "Pemecahan Masalah",
+      "title": "Menghilangkan Bekas Garis Tengah",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Removing.the.Middle.Line.Mark.jpeg",
+      "content": "<p>Kebanyakan hydrogel modern dirancang dengan lapisan alas pelindung yang terbelah dua untuk mempermudah pemasangan. Konsekuensinya, desain ini kerap menyisakan jejak garis horizontal melintang persis di tengah layar setelah dipasang.</p><p>Garis ini merupakan hal yang sepenuhnya normal. Ini sekadar bekas cetakan dari proses pabrikasi lapisan belah tersebut. Mengingat hydrogel dibekali teknologi pemulihan diri (self-healing), jejak garis ini akan memudar dan merata dengan sendirinya dalam waktu 1 hingga 3 hari, bergantung pada suhu pemakaian perangkat Anda.</p><p>Jangan berupaya keras mengikis atau menggosok garis tersebut menggunakan squeegee secara paksa, karena hal itu justru dapat membuat lapisan atas melar atau cacat permanen.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 12,
+      "category": "Pemecahan Masalah",
+      "title": "Efek Pelangi: Penyebab dan Solusinya",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Rainbow.Effect.Causes.and.Solutions.jpeg",
+      "content": "<p>Apabila layar Anda tiba-tiba menampilkan efek bias warna-warni layaknya genangan minyak atau pelangi setelah memasang hydrogel, Anda mungkin akan merasa khawatir.</p><p>Efek pelangi ini umumnya disebabkan oleh sisa kelembapan mikroskopis yang terperangkap antara kaca layar dan lem pelindung. Kondisi ini terjadi bila Anda keburu menempelkan hydrogel saat alkohol dari tisu basah belum sepenuhnya menguap.</p><p>Kabar baiknya, Anda tidak harus membongkar dan mengganti hydrogel tersebut. Karena bahan TPU memiliki sedikit sifat berpori (breathable), sisa kelembapan itu pelan-pelan akan menguap sendiri. Gunakan saja ponsel Anda secara normal selama beberapa hari, suhu panas dari baterai dan layar akan menghilangkannya secara sempurna.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 13,
+      "category": "Pemecahan Masalah",
+      "title": "Cara Aman Melepas Pelindung Layar Lama",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/How.to.Safely.Remove.Old.Screen.Protectors.jpeg",
+      "content": "<p>Sebelum menginstal hydrogel baru, pastikan Anda melepas pelindung yang lama dengan aman. Jika Anda memiliki tempered glass yang sudah retak, sangat dilarang menariknya lurus ke atas karena dapat memicu serpihan kaca tajam berterbangan.</p><p>Cara terbaik adalah dengan menyelipkan sepotong plastik tipis (seperti kartu main atau pick gitar) di bawah salah satu sudutnya. Gerakkan perlahan mengelilingi tepian layar sambil sedikit diangkat. Biarkan kartu tersebut bekerja memutus segel lem perekatnya.</p><p>Bila yang dilepas adalah lapisan hydrogel lama, Anda cukup mencongkel sedikit bagian ujungnya menggunakan kuku lalu menggulungnya pelan-pelan ke arah diagonal. Ia akan terlepas utuh dalam satu lembar tanpa terputus.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 14,
+      "category": "Tips & Fakta",
+      "title": "Hydrogel vs Tempered Glass: Mana yang Lebih Baik?",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Hydrogel.vs.Tempered.Glass.Which.is.Better.jpeg",
+      "content": "<p>Menentukan pilihan antara hydrogel dan kaca pelindung (tempered glass) kembali pada kebutuhan utama Anda.</p><p><b>Tempered Glass:</b> Sangat unggul menahan benturan ekstrem dan gesekan benda sangat tajam (seperti silet). Di sisi lain, pelindung ini tebal, rawan rompal atau retak pada pinggirannya, serta sangat buruk bila diaplikasikan pada layar HP yang melengkung.</p><p><b>Hydrogel:</b> Diciptakan dari bahan TPU yang lentur. Sangat tipis, tidak mungkin pecah belah, dan sanggup menempel mantap menutupi layar lengkung. Ia menawarkan sensasi sentuhan layaknya menyentuh layar asli dan mampu memulihkan diri dari goresan ringan. Meski tak akan selamat dari hantaman palu seperti halnya kaca, hydrogel merupakan pilihan cerdas pelindung antigores sehari-hari yang estetik dan awet.</p>",
+      "video": "",
+      "rewarded": true
+    },
+    {
+      "id": 15,
+      "category": "Tips & Fakta",
+      "title": "Sains di Balik Fitur Self-Healing Hydrogel",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/The.Science.of.Self-Healing.Hydrogel.jpeg",
+      "content": "<p>Keunggulan hydrogel yang paling populer di pasaran adalah kemampuannya untuk 'menyembuhkan' goresan. Bagaimana sains menjelaskannya?</p><p>Pelindung layar ini terbuat dari jaringan polimer elastomer. Ketika tergores tipis oleh kuku atau anak kunci, materi tersebut tidaklah teriris atau sobek; ia semata-mata terdesak dan melesak ke dalam.</p><p>Oleh karena molekul-molekul polimer dibekali semacam 'memori bentuk', mereka secara alami berkeinginan kembali ke formasi datarnya. Dalam kurun waktu 24 hingga 48 jam yang dibantu oleh suhu ruang, molekul ini mengembang lalu menutup dan memulihkan bekas cekungan tadi. Catatan: Fungsi ini hanya berlaku pada goresan halus, bukan robekan benda tajam!</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 16,
+      "category": "Tips & Fakta",
+      "title": "Apakah Hydrogel Mengganggu Sensor Sidik Jari?",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Does.Hydrogel.Affect.Fingerprint.Scanners.jpeg",
+      "content": "<p>Sistem keamanan ponsel pintar masa kini menggunakan pemindai sidik jari di balik layar (In-Display), baik berupa teknologi optik maupun ultrasonik. Penggunaan tempered glass yang tebal kerap mengacaukan frekuensi sensor ini, menyebabkan sidik jari sering gagal terbaca.</p><p>Karena konstruksi hydrogel luar biasa tipis (berkisar 0.15mm) ditambah elastisitasnya yang menyerupai kulit manusia, lapisan ini tidak meredam gelombang suara ultrasonik maupun membiaskan pendaran cahaya optik yang diperlukan untuk membaca sidik jari.</p><p>Bila Anda menuntut kecepatan respons buka kunci layar (unlock) secepat kilat tanpa repot menekan layar kuat-kuat, hydrogel menjadi kandidat materi pelindung paling ideal saat ini.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 17,
+      "category": "Tips & Fakta",
+      "title": "Hydrogel Matte vs Clear: Pilih Gaya Anda",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Matte.vs.Clear.Hydrogel.Choosing.Your.Style.jpeg",
+      "content": "<p>Lapisan film hydrogel tersedia dalam berbagai varian tekstur akhir menyesuaikan gaya penggunaan HP Anda.</p><p><b>Hydrogel Clear (HD/Bening):</b> Pilihan paling standar. Mempertahankan hingga 99% kualitas, kejernihan, dan akurasi warna bawaan layar. Sangat sempurna untuk menonton film, memoles foto, dan keseharian.</p><p><b>Hydrogel Matte (Anti-Glare/Doff):</b> Menghadirkan tekstur *frosted* (sedikit buram) yang memecah pantulan silau cahaya, amat ideal untuk cuaca terik di luar ruangan. Varian ini total kebal terhadap jiplakan sidik jari berminyak. Kalangan gamer seluler menobatkan hydrogel matte sebagai andalan sebab permukaannya amat kesat dan licin, memperlancar manuver sentuhan jari tanpa hambatan.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 18,
+      "category": "Tips & Fakta",
+      "title": "Penjelasan Mengenai Hydrogel Anti-Spy (Privasi)",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Privacy.Anti-Spy.Hydrogel.Explained.jpeg",
+      "content": "<p>Apakah Anda merasa risih apabila orang yang duduk bersebelahan di kereta diam-diam mengintip layar ponsel Anda? Hydrogel Anti-Spy adalah tameng privasi yang Anda butuhkan.</p><p>Varian spesifik ini mengadopsi teknologi *micro-louver*. Bagi Anda yang menggenggam ponsel menatap lurus ke layar, visual yang disajikan tetap utuh terbaca. Namun, bagi si pengintip yang melihat dari sisi samping pada kemiringan lebih dari 30 derajat, layar tersebut sekadar terlihat gelap gulita (hitam).</p><p>Perlu dipahami, menggunakan pelindung layar berfitur privasi umumnya akan menurunkan tingkat kecerahan maksimal dari layar ponsel, sehingga mungkin Anda perlu rutin menaikkan setelan *brightness* saat beraktivitas di ruang terbuka.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 19,
+      "category": "Tips & Fakta",
+      "title": "Memilih Pelindung Layar yang Ramah Casing (Case-Friendly)",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Choosing.Case-Friendly.Screen.Protectors.jpeg",
+      "content": "<p>Kendala paling klise yang ditemui pengguna pelindung layar *full-cover* adalah pinggiran pelindung yang beradu tekan dengan tepian casing ponsel tipe tebal (semacam Spigen atau Otterbox), membuat hydrogel mengerut dan melembung di sudutnya.</p><p>Ketika berbelanja hydrogel baru, carilah embel-embel 'Case Friendly' atau 'Case Fit' pada kemasannya. Spesifikasi pelindung jenis ini dirancang dengan potongan ukuran sekitar 1mm lebih mengerut ke dalam pada keempat sisinya. Celah mikro ini memberi ruang renggang antara tepi pelindung dan tepi casing yang menekan ke dalam, memastikan tidak terjadi tumpang tindih sembari tetap merawat ponsel Anda terlindungi optimal.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 20,
+      "category": "Tips & Fakta",
+      "title": "Bisakah Hydrogel Melindungi HP dari Benturan Jatuh?",
+      "image": "https://github.com/hikmahverse/orvixa-studio/releases/download/hydroguide/Can.Hydrogel.Protect.Your.Phone.from.Drops.jpeg",
+      "content": "<p>Ini adalah kesalahpahaman yang paling sering beredar di masyarakat. Ketangguhan hydrogel berada pada aspek proteksi anti-gores dan penyebaran daya kejut dari jatuh skala ringan, akan tetapi materi ini bukanlah ilmu sihir mutlak.</p><p>Sekiranya ponsel Anda jatuh menghantam trotoar batu dari ketinggian setara kepala secara langsung (menukik bagian layar), hydrogel tidak dapat meredam retakan kaca bawaan dengan tingkat keberhasilan setinggi pemakaian *tempered glass* tebal.</p><p>Fungsi sejati hydrogel terwujud maksimal ketika dikombinasikan ke dalam satu sistem proteksi. Gunakan hydrogel bersamaan casing karet *bumper* tebal penyerap kejut berkualitas tinggi. Biarkan sang casing mengambil alih tugas meredam jatuh ekstrem, sementara hydrogel melindungi kemulusan layar dari gesekan anak kunci tajam di dalam saku celana Anda!</p>",
+      "video": "",
+      "rewarded": false
+    }
+  ],
+  "more_apps": []
+}
