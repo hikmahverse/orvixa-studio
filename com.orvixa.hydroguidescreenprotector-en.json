@@ -1,0 +1,256 @@
+{
+  "apps": {
+    "status": true,
+    "redirect_url": "",
+    "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
+    "email_feedback_and_report": "orvixa.studios@gmail.com",
+    "webview_cache": true,
+    "post_list_in_large_style": true,
+    "show_post_list_header": true,
+    "show_post_detail_image": true,
+    "show_post_detail_title": true,
+    "show_post_detail_category": true,
+    "show_related_posts": true,
+    "enable_rtl_mode": false,
+    "enable_exit_dialog": true,
+    "enable_dark_mode_as_default_theme": false
+  },
+  "ads": {
+    "mainAds": "admob",
+    "backupAds": "none",
+    "adStatus": true,
+    "interstitialInterval": 2,
+    "bannerStatus": true,
+    "interstitialStatus": true,
+    "nativeStatus": true,
+    "rewardedStatus": true,
+    "appOpenStatus": false,
+    "mainAdmobAppId": "ca-app-pub-4631404232937485~9033611397",
+    "mainAdManagerAppId": "0",
+    "mainStartappAppId": "0",
+    "mainUnityGameId": "0",
+    "mainIronsourceAppKey": "0",
+    "mainApplovinSdkKey": "0",
+    "mainBannerId": "ca-app-pub-4631404232937485/2492399565",
+    "mainInterstitialId": "ca-app-pub-4631404232937485/1179317896",
+    "mainNativeId": "ca-app-pub-4631404232937485/6550918282",
+    "mainRewardedId": "ca-app-pub-4631404232937485/7863999959",
+    "mainAppOpenId": "ca-app-pub-4631404232937485/5237836616",
+    "backupAdmobAppId": "0",
+    "backupAdManagerAppId": "0",
+    "backupStartappAppId": "0",
+    "backupUnityGameId": "0",
+    "backupIronsourceAppKey": "0",
+    "backupApplovinSdkKey": "0",
+    "backupBannerId": "0",
+    "backupInterstitialId": "0",
+    "backupNativeId": "0",
+    "backupRewardedId": "0",
+    "backupAppOpenId": "0"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Main Guide",
+      "image": "https://picsum.photos/seed/cat1/600/400"
+    },
+    {
+      "id": 2,
+      "name": "Preparation",
+      "image": "https://picsum.photos/seed/cat2/600/400"
+    },
+    {
+      "id": 3,
+      "name": "Troubleshooting",
+      "image": "https://picsum.photos/seed/cat3/600/400"
+    },
+    {
+      "id": 4,
+      "name": "Tips & Facts",
+      "image": "https://picsum.photos/seed/cat4/600/400"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Main Guide",
+      "title": "Step-by-Step: Perfect Hydrogel Installation",
+      "image": "https://picsum.photos/seed/post1/600/400",
+      "content": "<p>Installing a hydrogel screen protector is easier than you think. Follow these exact steps for a flawless, bubble-free result.</p><p><b>Step 1: Preparation</b><br>Find a dust-free environment. Wash your hands and prepare your tools: the hydrogel film, wet wipe, dry wipe, dust absorber, and squeegee.</p><p><b>Step 2: Cleaning</b><br>Use the wet wipe to remove all oil and dirt from the screen. Follow up immediately with the dry wipe until the screen is completely dry. Use the dust absorber sticker to pick up any remaining micro-dust.</p><p><b>Step 3: Alignment</b><br>Peel off the bottom alignment strip of the hydrogel. Carefully align the protector with your phone's camera hole and edges.</p><p><b>Step 4: Application</b><br>Lift the top half of the protector. Place the squeegee in the middle and push upward firmly and smoothly. Repeat the process for the bottom half.</p><p><b>Step 5: Finishing</b><br>Gently peel off the top protective film. Use your fingers to smooth out the edges. You are done!</p>",
+      "video": "dQw4w9WgXcQ",
+      "rewarded": true
+    },
+    {
+      "id": 2,
+      "category": "Main Guide",
+      "title": "How to Install Hydrogel on Curved Screens",
+      "image": "https://picsum.photos/seed/post2/600/400",
+      "content": "<p>Curved edges (like on Samsung Galaxy edge series) can be tricky, but hydrogel is the perfect material for them.</p><p>Follow the standard cleaning and alignment process. When you use the squeegee to push the protector forward, focus primarily on the flat center of the screen first. Do not try to wrap the edges immediately.</p><p>Once the center is perfectly applied and the top protective film is removed, it is time to tackle the curves. Use your thumb or a microfiber cloth to gently massage the hydrogel over the curved edges. The heat from your fingers helps the TPU material bend and adhere strongly to the glass.</p><p>If the edges keep lifting, you can use a hair dryer on a very low setting for 3-5 seconds to warm the film, making it softer and stickier.</p>",
+      "video": "dQw4w9WgXcQ",
+      "rewarded": true
+    },
+    {
+      "id": 3,
+      "category": "Preparation",
+      "title": "Why You Need a Dust-Free Environment",
+      "image": "https://picsum.photos/seed/post3/600/400",
+      "content": "<p>Dust is the ultimate enemy of screen protector installation. Even a single speck of micro-dust can create an annoying bubble that will never disappear.</p><p>Before you begin, turn off any fans or air conditioners in the room to stop air circulation. A pro tip is to apply your screen protector in the bathroom right after someone has taken a hot shower. The steam in the air traps floating dust particles and pulls them to the floor, creating a temporary cleanroom environment.</p><p>Always work under a bright light so you can easily spot any dust resting on the black screen of your device before applying the adhesive.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 4,
+      "category": "Preparation",
+      "title": "Understanding Wet and Dry Wipes",
+      "image": "https://picsum.photos/seed/post4/600/400",
+      "content": "<p>Those little packets labeled 1 and 2 are crucial for a successful installation. Never skip them or replace them with household tissues.</p><p>The Wet Wipe (1) contains a specific concentration of isopropyl alcohol. It is designed to dissolve skin oils, fingerprint smudges, and adhesive residue from old protectors. Wipe your entire screen thoroughly.</p><p>The Dry Wipe (2) is a lint-free microfiber cloth. Use it immediately after the wet wipe. Do not let the alcohol air-dry, as it can leave watermark patterns. Wipe firmly in one direction until the glass is sparkling clean and completely dry.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 5,
+      "category": "Preparation",
+      "title": "How to Use the Dust Absorber Sticker",
+      "image": "https://picsum.photos/seed/post5/600/400",
+      "content": "<p>Even after using the wet and dry wipes, tiny dust particles can land on your screen in seconds.</p><p>The Dust Absorber is a low-tack sticker designed specifically for this issue. It is sticky enough to pick up dust, but not so sticky that it leaves residue on your screen.</p><p>Do not wipe or drag the sticker across the glass! Instead, use a rapid 'tap and lift' motion across the entire surface of the screen. Do this step right before you expose the adhesive on your hydrogel protector to minimize the window for new dust to settle.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 6,
+      "category": "Preparation",
+      "title": "Mastering the Squeegee Tool",
+      "image": "https://picsum.photos/seed/post6/600/400",
+      "content": "<p>The squeegee (or scratch card) is your main tool for applying the hydrogel evenly and pushing out air.</p><p>Hold the squeegee at a 45-degree angle to the screen. The most common mistake beginners make is pushing with a hesitant, stop-and-go motion. Stopping in the middle of a push will leave a permanent horizontal line in the hydrogel adhesive.</p><p>Apply firm, consistent pressure and push all the way to the edge in one smooth, continuous motion. If your squeegee doesn't have a fabric edge, wrap it in a thin microfiber cloth to prevent scratching the top layer of the protector during application.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 7,
+      "category": "Preparation",
+      "title": "Essential Preparation Checklist",
+      "image": "https://picsum.photos/seed/post7/600/400",
+      "content": "<p>Before peeling any protective layers off your new hydrogel, make sure you check these boxes:</p><ul><li>Hands washed with soap to remove natural oils?</li><li>Fans and AC turned off?</li><li>Working area well-lit?</li><li>Phone case removed? (Cases can interfere with edge alignment)</li><li>Old screen protector completely removed and glue residue cleaned?</li><li>Installation video watched at least once?</li></ul><p>Checking these boxes guarantees that 90% of the difficult work is already done.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 8,
+      "category": "Troubleshooting",
+      "title": "How to Remove Trapped Air Bubbles",
+      "image": "https://picsum.photos/seed/post8/600/400",
+      "content": "<p>Seeing bubbles after installation is normal. Do not panic, and do not immediately peel the protector off!</p><p>First, identify the type of bubble. If it is pure trapped air (no dust speck inside), you have two options. For large bubbles near the edge, use your squeegee wrapped in a cloth to gently push the air outward.</p><p>For tiny micro-bubbles in the center of the screen, do absolutely nothing. Hydrogel TPU is a breathable material. Small air bubbles will naturally dissipate and disappear on their own within 24 to 48 hours. Just be patient!</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 9,
+      "category": "Troubleshooting",
+      "title": "Dealing with Trapped Dust After Installation",
+      "image": "https://picsum.photos/seed/post9/600/400",
+      "content": "<p>If a bubble has a tiny dark speck in the center, that is trapped dust. This bubble will not disappear on its own.</p><p>If the dust is near the edge, you can perform a rescue operation. Take a piece of standard clear tape. Use your fingernail to carefully lift the nearest corner of the hydrogel just enough to reach the dust.</p><p>Use the sticky side of the tape to grab the dust particle off the screen (or off the sticky side of the hydrogel). Once the dust is removed, use your squeegee to lay the hydrogel flat again.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 10,
+      "category": "Troubleshooting",
+      "title": "Fixing Lifted Edges on Curved Displays",
+      "image": "https://picsum.photos/seed/post10/600/400",
+      "content": "<p>Sometimes, the edges of a hydrogel protector refuse to stick to sharply curved screens, popping back up immediately.</p><p>This usually happens because the protector was stretched too much during application, or the edges were not cleaned properly. To fix it, gently press the edges down with a warm microfiber cloth. The warmth helps the TPU material relax and conform to the curve.</p><p>If you put your phone case on immediately and it lifted the edges, your protector might not be 'case-friendly'. You can carefully trim 1mm off the lifting edge with a sharp craft knife, but this requires extreme precision.</p>",
+      "video": "",
+      "rewarded": true
+    },
+    {
+      "id": 11,
+      "category": "Troubleshooting",
+      "title": "Removing the Middle Line Mark",
+      "image": "https://picsum.photos/seed/post11/600/400",
+      "content": "<p>Most modern hydrogel protectors come with a split backing for easier installation. However, this often leaves a visible horizontal line exactly in the middle of your screen once applied.</p><p>This line is completely normal. It is an artifact from the manufacturing process and the split backing layer. Because hydrogel has self-healing properties, this line will fade away and merge completely within 1 to 3 days depending on the temperature of your device.</p><p>Do not try to aggressively scrape it away with the squeegee, as you might permanently stretch or damage the top layer.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 12,
+      "category": "Troubleshooting",
+      "title": "Rainbow Effect: Causes and Solutions",
+      "image": "https://picsum.photos/seed/post12/600/400",
+      "content": "<p>If your screen looks like it has a multi-colored oil slick or rainbow effect after applying hydrogel, you might be worried.</p><p>This rainbow effect is typically caused by moisture trapped between the screen and the protector. It happens if you applied the protector before the wet wipe alcohol evaporated completely.</p><p>The good news? You do not need to replace the protector. Since the TPU material is slightly porous, the moisture will eventually evaporate on its own. Give it a few days of normal phone usage, and the heat from the battery will clear it up perfectly.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 13,
+      "category": "Troubleshooting",
+      "title": "How to Safely Remove Old Screen Protectors",
+      "image": "https://picsum.photos/seed/post13/600/400",
+      "content": "<p>Before installing your new hydrogel, you must safely remove the old one. If you have a shattered tempered glass, do not pull it straight up, as it can send glass shards flying.</p><p>Instead, slide a thin plastic card (like a playing card or guitar pick) under one corner. Slowly work your way around the edges, lifting gently. Let the card do the work to break the adhesive seal.</p><p>If you are removing an old hydrogel film, simply use your fingernail at one corner and slowly roll it back diagonally. It will peel off in one piece without breaking.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 14,
+      "category": "Tips & Facts",
+      "title": "Hydrogel vs. Tempered Glass: Which is Better?",
+      "image": "https://picsum.photos/seed/post14/600/400",
+      "content": "<p>The choice between hydrogel and tempered glass depends on your needs.</p><p><b>Tempered Glass:</b> Excellent for extreme drop protection and hard scratch resistance (like from a razor blade). However, it is thick, prone to shattering at the edges, and terrible for curved screens.</p><p><b>Hydrogel:</b> Made of flexible TPU. It is ultra-thin, never cracks or shatters, and wraps perfectly around curved edges. It offers a bare-screen feel and heals from minor scratches. While it won't survive a direct hammer hit like glass might, it is the superior choice for everyday scratch protection and seamless aesthetics.</p>",
+      "video": "",
+      "rewarded": true
+    },
+    {
+      "id": 15,
+      "category": "Tips & Facts",
+      "title": "The Science of Self-Healing Hydrogel",
+      "image": "https://picsum.photos/seed/post15/600/400",
+      "content": "<p>Hydrogel's most famous feature is its ability to 'heal' from scratches. But how does it work?</p><p>The protector is made of elastomeric polymers. When you lightly scratch it with a fingernail or keys, you are not actually cutting the material; you are just displacing it and creating a dent.</p><p>Because the polymer molecules have a 'shape memory', they naturally want to return to their original flat state. Over 24 to 48 hours, aided by ambient heat, the molecules expand back into place, erasing the dent. Note: This only works for light scratches, not deep cuts!</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 16,
+      "category": "Tips & Facts",
+      "title": "Does Hydrogel Affect Fingerprint Scanners?",
+      "image": "https://picsum.photos/seed/post16/600/400",
+      "content": "<p>Modern smartphones use either optical or ultrasonic under-display fingerprint scanners. Thick tempered glass often disrupts these sensors, causing failed unlocks.</p><p>Because hydrogel is incredibly thin (typically 0.15mm) and has properties similar to human skin elasticity, it does not block the ultrasonic sound waves or distort the optical light needed for scanning.</p><p>If you want lightning-fast fingerprint unlocking without having to press your thumb down aggressively, hydrogel is the absolute best screen protector material available today.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 17,
+      "category": "Tips & Facts",
+      "title": "Matte vs. Clear Hydrogel: Choosing Your Style",
+      "image": "https://picsum.photos/seed/post17/600/400",
+      "content": "<p>Hydrogel films come in different finishes to suit your lifestyle.</p><p><b>Clear (HD) Hydrogel:</b> The standard choice. It preserves 99% of your screen's original clarity and color accuracy. Perfect for watching movies, editing photos, and everyday use.</p><p><b>Matte (Anti-Glare) Hydrogel:</b> Has a frosted texture that diffuses light, making it great for outdoor use. It completely repels fingerprint smudges. Mobile gamers highly prefer matte hydrogel because the surface is very smooth, reducing friction for intense swiping during gameplay.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 18,
+      "category": "Tips & Facts",
+      "title": "Privacy Anti-Spy Hydrogel Explained",
+      "image": "https://picsum.photos/seed/post18/600/400",
+      "content": "<p>Do you hate it when people sitting next to you on the train stare at your phone screen? Anti-Spy hydrogel is the solution.</p><p>This special variant uses micro-louver technology. To the person holding the phone directly in front of them, the screen is perfectly visible. But to anyone looking from an angle greater than 30 degrees, the screen appears completely black.</p><p>Keep in mind that privacy protectors generally lower your screen's overall brightness slightly, so you may need to turn up your backlight in bright environments.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 19,
+      "category": "Tips & Facts",
+      "title": "Choosing Case-Friendly Screen Protectors",
+      "image": "https://picsum.photos/seed/post19/600/400",
+      "content": "<p>A common issue with edge-to-edge screen protectors is that heavy-duty phone cases (like Otterbox or Spigen) will push against the edges of the film, causing it to bubble and lift.</p><p>When buying hydrogel, look for the term 'Case Friendly' or 'Case Fit'. These specific films are cut roughly 1mm smaller on all sides. This leaves a tiny gap between the protector and the case, ensuring they do not interfere with each other while keeping your phone fully protected.</p>",
+      "video": "",
+      "rewarded": false
+    },
+    {
+      "id": 20,
+      "category": "Tips & Facts",
+      "title": "Can Hydrogel Protect Your Phone from Drops?",
+      "image": "https://picsum.photos/seed/post20/600/400",
+      "content": "<p>This is the most common misconception. Hydrogel is exceptionally good at scratch resistance and impact dispersion for minor bumps, but it is not magic.</p><p>If you drop your phone face-down onto jagged rocks from 6 feet high, hydrogel will not save the glass underneath as effectively as a thick tempered glass protector would.</p><p>Hydrogel is best utilized as part of a complete protection system. Pair your hydrogel screen protector with a high-quality shock-absorbing bumper case. The case handles the heavy drops, while the hydrogel handles the keys in your pocket!</p>",
+      "video": "",
+      "rewarded": false
+    }
+  ],
+  "more_apps": []
+}
