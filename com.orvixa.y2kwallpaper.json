@@ -1,0 +1,485 @@
+{
+  "apps": {
+    "status": true,
+    "featured_categories": "Cyber Neon,Liquid Chrome,Retro Tech,Pixel Art,Holographic",
+    "show_wallpaper_name": true,
+    "show_wallpaper_category": true,
+    "show_favorite_button_in_wallpaper_list": true,
+    "enable_slider_wallpaper": false,
+    "enable_rtl_mode": false,
+    "enable_exit_dialog": true,
+    "enable_vpn_access": false,
+    "enable_dark_mode_as_default_theme": true,
+    "enable_more_apps": true,
+    "redirect_url": "",
+    "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/wallpaper.html"
+  },
+  "ads": {
+    "mainAds": "admob",
+    "backupAds": "none",
+    "adStatus": true,
+    "interstitialInterval": 2,
+    "bannerStatus": true,
+    "interstitialStatus": true,
+    "nativeStatus": true,
+    "rewardedStatus": true,
+    "appOpenStatus": false,
+    "mainAdmobAppId": "ca-app-pub-3940256099942544~3347511713",
+    "mainAdManagerAppId": "0",
+    "mainStartappAppId": "0",
+    "mainUnityGameId": "0",
+    "mainIronsourceAppKey": "0",
+    "mainApplovinSdkKey": "0",
+    "mainBannerId": "ca-app-pub-3940256099942544/9214589741",
+    "mainInterstitialId": "ca-app-pub-3940256099942544/1033173712",
+    "mainNativeId": "ca-app-pub-3940256099942544/2247696110",
+    "mainRewardedId": "ca-app-pub-3940256099942544/5224354917",
+    "mainAppOpenId": "ca-app-pub-3940256099942544/9257395921",
+    "backupAdmobAppId": "0",
+    "backupAdManagerAppId": "0",
+    "backupStartappAppId": "0",
+    "backupUnityGameId": "0",
+    "backupIronsourceAppKey": "0",
+    "backupApplovinSdkKey": "0",
+    "backupBannerId": "0",
+    "backupInterstitialId": "0",
+    "backupNativeId": "0",
+    "backupRewardedId": "0",
+    "backupAppOpenId": "0"
+  },
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Cyber Neon",
+      "category_image": "",
+      "prompt": "Square 1024x1024, Y2K aesthetic, abstract cyber neon glowing lights, futuristic digital grid, electric blue and pink colors, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus."
+    },
+    {
+      "category_id": 2,
+      "category_name": "Liquid Chrome",
+      "category_image": "",
+      "prompt": "Square 1024x1024, Y2K aesthetic, abstract flowing liquid chrome metal, iridescent pink and purple reflections, 3D glossy metallic texture, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus."
+    },
+    {
+      "category_id": 3,
+      "category_name": "Retro Tech",
+      "category_image": "",
+      "prompt": "Square 1024x1024, Y2K aesthetic, collage of floating retro tech devices, translucent neon plastic casings, glowing screens, nostalgic 2000s vibe, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus."
+    },
+    {
+      "category_id": 4,
+      "category_name": "Pixel Art",
+      "category_image": "",
+      "prompt": "Square 1024x1024, Y2K aesthetic, highly detailed retro pixel art landscape, glitched starry digital sky, neon pastel colors, nostalgic 16-bit era, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus."
+    },
+    {
+      "category_id": 5,
+      "category_name": "Holographic",
+      "category_image": "",
+      "prompt": "Square 1024x1024, Y2K aesthetic, abstract holographic foil texture, iridescent rainbow light reflections, shiny translucent fluid surface, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus."
+    }
+  ],
+  "wallpapers": [
+    {
+      "wallpaper_id": 1,
+      "category_name": "Cyber Neon",
+      "wallpaper_name": "Cyber Butterfly",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating holographic cyber butterfly, glowing pastel neon wings, circuit board details, dark space background, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 2,
+      "category_name": "Liquid Chrome",
+      "wallpaper_name": "Liquid Chrome Heart",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, 3D floating liquid chrome heart, dripping metallic texture, iridescent pink and purple reflections, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 3,
+      "category_name": "Retro Tech",
+      "wallpaper_name": "Retro Flip Phone",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating translucent flip phone, glowing buttons, pixelated screen, holographic neon aura, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 4,
+      "category_name": "Pixel Art",
+      "wallpaper_name": "Pixel Starburst",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, cluster of floating pixel art stars, electric blue and pink pastel, glitched digital grid background, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 5,
+      "category_name": "Retro Tech",
+      "wallpaper_name": "Digital Pet Shell",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating translucent digital pet toy, bright neon plastic, small LCD screen with pixel heart, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 6,
+      "category_name": "Holographic",
+      "wallpaper_name": "Holographic Dolphin",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, low-poly holographic floating dolphin, vaporwave influence, metallic pastel gradient surface, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 7,
+      "category_name": "Cyber Neon",
+      "wallpaper_name": "Chunky Sneakers",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating chunky platform sneakers, silver and neon pink accents, anti-gravity studio lighting, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 8,
+      "category_name": "Retro Tech",
+      "wallpaper_name": "Glowing CD-ROM",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating spinning CD-ROM, extreme rainbow holographic reflection, floating data particles, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 9,
+      "category_name": "Cyber Neon",
+      "wallpaper_name": "Alien Head Emoji",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating 3D alien head, liquid metal chrome texture, glowing green neon eyes, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 10,
+      "category_name": "Cyber Neon",
+      "wallpaper_name": "Cyber Tribal",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, glowing neon tribal tattoo pattern floating in mid-air, 3D metallic silver edges, deep blue background, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 11,
+      "category_name": "Cyber Neon",
+      "wallpaper_name": "Neon Yin Yang",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, 3D floating Yin Yang symbol, made of pink and blue glowing liquid plasma, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 12,
+      "category_name": "Liquid Chrome",
+      "wallpaper_name": "Glossy Lip Tube",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating lip gloss tube, sparkly translucent gel, bubblegum pink vibes, glitter particles, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 13,
+      "category_name": "Holographic",
+      "wallpaper_name": "Cyber Lava Lamp",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating lava lamp blob, metallic silver and neon purple liquid, anti-gravity flow, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 14,
+      "category_name": "Retro Tech",
+      "wallpaper_name": "Retro Handheld",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating translucent purple handheld game console, glowing neon buttons, floating pixel coins, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 15,
+      "category_name": "Cyber Neon",
+      "wallpaper_name": "Beaded Choker",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating colorful plastic bead choker, flower and star shapes, shiny glossy texture, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 16,
+      "category_name": "Retro Tech",
+      "wallpaper_name": "Floppy Disk",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating 3D floppy disk, translucent neon plastic casing, glowing internal circuits, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 17,
+      "category_name": "Holographic",
+      "wallpaper_name": "Magic 8 Ball",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating Magic 8 ball, holographic surface, glowing blue triangle answer window, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 18,
+      "category_name": "Liquid Chrome",
+      "wallpaper_name": "Chrome Cherries",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, pair of floating cherries made of highly reflective liquid chrome, pink neon lighting, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 19,
+      "category_name": "Cyber Neon",
+      "wallpaper_name": "Butterfly Clips",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, cluster of floating plastic butterfly hair clips, glittery pastel colors, 90s nostalgia, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 20,
+      "category_name": "Retro Tech",
+      "wallpaper_name": "Bubble PC",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating translucent colorful bubble desktop monitor, glowing internal hardware, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 21,
+      "category_name": "Liquid Chrome",
+      "wallpaper_name": "Pastel Smiley",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating 3D smiley face, melted liquid chrome texture, dripping pastel neon colors, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 22,
+      "category_name": "Holographic",
+      "wallpaper_name": "Cyber Matrix",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, abstract floating cyber matrix grid, distorted perspective, glowing pastel neon nodes, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 23,
+      "category_name": "Holographic",
+      "wallpaper_name": "Glitching Grid",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating holographic grid structure, VHS glitch effects, magenta and cyan color split, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 24,
+      "category_name": "Holographic",
+      "wallpaper_name": "Holographic Daisy",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, 3D floating daisy flower, iridescent translucent petals, glowing neon center, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 25,
+      "category_name": "Liquid Chrome",
+      "wallpaper_name": "Metallic Balloon",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating balloon dog, metallic liquid chrome surface, reflecting neon cyber environment, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 26,
+      "category_name": "Retro Tech",
+      "wallpaper_name": "Retro Pager",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating translucent neon pager, glowing green digital numbers on screen, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 27,
+      "category_name": "Liquid Chrome",
+      "wallpaper_name": "Liquid Sphere",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating perfect sphere of liquid mercury, reflecting a distorted pastel cyber world, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 28,
+      "category_name": "Retro Tech",
+      "wallpaper_name": "Chrome Headphones",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating chunky over-ear headphones, silver chrome and neon blue glowing details, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 29,
+      "category_name": "Cyber Neon",
+      "wallpaper_name": "Pastel Cyber City",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, abstract miniature floating cyberpunk city, pastel neon wireframes, dark void background, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 30,
+      "category_name": "Retro Tech",
+      "wallpaper_name": "Floating Gamepad",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating retro gamepad controller, frosted clear plastic casing, glowing circuitry, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 31,
+      "category_name": "Liquid Chrome",
+      "wallpaper_name": "Bubble Text",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating 3D bubble typography saying 'Y2K', metallic pink and silver gradient, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 32,
+      "category_name": "Cyber Neon",
+      "wallpaper_name": "Neon Heart Lock",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating heart-shaped padlock, glowing neon edges, translucent holographic body, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 33,
+      "category_name": "Cyber Neon",
+      "wallpaper_name": "Holo Skateboard",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating futuristic skateboard deck, holographic iridescent grip tape, neon wheels, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 34,
+      "category_name": "Retro Tech",
+      "wallpaper_name": "Retro Boombox",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating translucent neon boombox, glowing equalizers, emitting floating musical notes, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 35,
+      "category_name": "Cyber Neon",
+      "wallpaper_name": "Cyber Sunglasses",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating wraparound cyber sunglasses, reflective rainbow lenses, chrome frames, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 36,
+      "category_name": "Liquid Chrome",
+      "wallpaper_name": "Chrome Star",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating 3D sharp metallic star, liquid chrome texture, glowing pink neon aura, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 37,
+      "category_name": "Pixel Art",
+      "wallpaper_name": "Digital Pet Screen",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, macro close-up of floating LCD screen pixels, glowing neon green and pink pixel art, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 38,
+      "category_name": "Retro Tech",
+      "wallpaper_name": "Glowing Cassette",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating transparent cassette tape, neon glowing magnetic tape unraveling slightly, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 39,
+      "category_name": "Holographic",
+      "wallpaper_name": "Plasma Globe",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating plasma globe, electric pink and purple lightning tendrils inside, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 40,
+      "category_name": "Holographic",
+      "wallpaper_name": "Neon Lightning",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, abstract floating neon lightning bolt, 3D glossy plastic texture, pastel cyber background, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 41,
+      "category_name": "Pixel Art",
+      "wallpaper_name": "Pixel Clouds",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating 3D pixelated clouds, soft pastel gradients, starry neon night sky, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 42,
+      "category_name": "Holographic",
+      "wallpaper_name": "Holo Aura",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, abstract floating holographic aura, swirling iridescent gas, softly glowing light, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 43,
+      "category_name": "Retro Tech",
+      "wallpaper_name": "Retro Camcorder",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating silver digital camcorder, glowing red recording light, holographic display, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 44,
+      "category_name": "Holographic",
+      "wallpaper_name": "Slime Splatter",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating neon green and pink slime splatters, glossy 3D texture, dark background, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 45,
+      "category_name": "Liquid Chrome",
+      "wallpaper_name": "Chunky Ring",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating chunky plastic dome ring, encapsulated holographic glitter inside, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 46,
+      "category_name": "Cyber Neon",
+      "wallpaper_name": "Neon Barcode",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, 3D floating glowing neon barcode, scanning laser effect, cyberpunk elements, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 47,
+      "category_name": "Liquid Chrome",
+      "wallpaper_name": "Mercury Drop",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, single large floating drop of liquid chrome mercury, stretching and morphing mid-air, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 48,
+      "category_name": "Cyber Neon",
+      "wallpaper_name": "Cyber Eye",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating futuristic robotic eye, glowing neon iris, silver chrome casing, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 49,
+      "category_name": "Holographic",
+      "wallpaper_name": "Laser Beams",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, abstract intersecting pastel neon laser beams floating in a dark holographic void, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    },
+    {
+      "wallpaper_id": 50,
+      "category_name": "Holographic",
+      "wallpaper_name": "Abstract Portal",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "",
+      "prompt": "Portrait 1080x1920, Y2K aesthetic, floating dimensional portal, swirling liquid chrome and neon pastel rings, deep space core, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
+    }
+  ],
+  "more_apps": []
+}
